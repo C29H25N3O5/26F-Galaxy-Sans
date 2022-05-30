@@ -1,0 +1,42 @@
+name: Glyphs Develop CI
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+    - Source/**
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+    name: Build fonts
+    steps:
+      - name: Check source repository
+        uses: actions/checkout@v2
+      - name: Set up Python v${{ matrix.python-version }} environment
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Python build dependency cache lookup
+        uses: actions/cache@v1
+        with:
+          path: ~/.cache/pip
+          # Check for requirements file cache hit
+          key: ${{ runner.os }}-pip-${{ hashFiles('${{ steps.config.outputs.dependpath }}') }}
+      - name: Install Python build dependencies
+        uses: py-actions/py-dependency-install@v2
+        with:
+          update-wheel: "true"
+          update-setuptools: "true"
+      - name: Build fonts
+        run: gftools builder Source/glyphs/config.yaml
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Fonts
+          path: Source/fonts/
