@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="3000"/>
+  <unicode hex="0055"/>
+  <unicode hex="0075"/>
+  <anchor x="1500" y="0" name="bottom"/>
+  <anchor x="1740" y="10" name="ogonek"/>
+  <anchor x="1500" y="1400" name="top"/>
+  <anchor x="1780" y="1400" name="topright"/>
+  <outline>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

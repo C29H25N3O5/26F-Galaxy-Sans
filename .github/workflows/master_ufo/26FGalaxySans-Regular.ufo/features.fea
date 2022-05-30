@@ -1,0 +1,8 @@
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Aacute Acaron Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex D Eth Dcaron E Eacute Ecaron Ecircumflex Edieresis Egrave Emacron Eogonek F G Gbreve Gcircumflex H Hcircumflex I IJ Iacute Icaron Icircumflex Idieresis Idotaccent Igrave Imacron J Jcircumflex K L Lacute Lcaron M N Nacute Ncaron Ntilde O Oacute Ocaron Ocircumflex Odieresis Ograve Omacron Otilde P Q R Racute Rcaron S Sacute Scaron Scedilla Scircumflex T Tcaron U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Umacron Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent copyright registered dollar], # Base
+    [fi fl], # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb], # Mark
+    ;
+} GDEF;

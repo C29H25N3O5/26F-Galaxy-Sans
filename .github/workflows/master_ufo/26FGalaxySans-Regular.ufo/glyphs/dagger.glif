@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="898"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="449" y="1394" type="move"/>
+      <point x="449" y="539" type="line"/>
+    </contour>
+    <contour>
+      <point x="767" y="1126" type="move"/>
+      <point x="574" y="1126" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="1126" type="move"/>
+      <point x="131" y="1126" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>asterisk</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>asterisk</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

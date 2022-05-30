@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance width="1101"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="581" y="1386" type="move"/>
+      <point x="157" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="552" y="1341" type="move"/>
+      <point x="823" y="881" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="14" type="move"/>
+      <point x="944" y="702" type="line"/>
+    </contour>
+    <contour>
+      <point x="548" y="59" type="move"/>
+      <point x="278" y="519" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>asterisk</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>asterisk</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

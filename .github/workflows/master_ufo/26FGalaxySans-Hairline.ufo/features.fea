@@ -1,0 +1,8 @@
+table GDEF {
+  # automatic
+  GlyphClassDef
+    [A Acaron Amacron Aogonek B C Cacute Ccaron Ccircumflex D Dcaron E Ecaron Emacron Eogonek F G Gbreve Gcircumflex H Hcircumflex I IJ J Jcircumflex K L Lacute Lcaron M N Nacute Ncaron O Ocaron Omacron P Q R Racute Rcaron S Sacute Scedilla Scircumflex T Tcaron U Ubreve Ucaron Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Umacron Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Ycircumflex Ygrave Z Zacute Zdotaccent], # Base
+    , # Liga
+    [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb cedillacomb ogonekcomb], # Mark
+    ;
+} GDEF;

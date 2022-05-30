@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="1623"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="439" y="12" type="move"/>
+      <point x="160" y="544" type="line"/>
+    </contour>
+    <contour>
+      <point x="698" y="956" type="move"/>
+      <point x="399" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="766" y="1400" type="move"/>
+      <point x="1492" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>asterisk</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>asterisk</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

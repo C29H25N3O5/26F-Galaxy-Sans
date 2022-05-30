@@ -34,9 +34,9 @@ jobs:
           update-wheel: "true"
           update-setuptools: "true"
       - name: Build fonts
-        run: gftools builder Source/glyphs/config.yaml
+        run: gftools builder config.yaml
       - name: Upload Fonts
         uses: actions/upload-artifact@v2
         with:
           name: Fonts
-          path: Source/fonts/
+          path: ../../fonts/

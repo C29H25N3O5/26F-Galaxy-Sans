@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance width="1266"/>
+  <unicode hex="0141"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="241" y="0" type="move"/>
+      <point x="1136" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="1394" type="move"/>
+      <point x="241" y="926" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="570" type="move"/>
+      <point x="473" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="241" y="474" type="move"/>
+      <point x="241" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

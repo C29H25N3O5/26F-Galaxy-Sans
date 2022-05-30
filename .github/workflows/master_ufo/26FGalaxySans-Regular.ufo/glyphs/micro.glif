@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="1245"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="185" y="100" type="move"/>
+      <point x="185" y="-394" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="994" type="move"/>
+      <point x="185" y="500" type="line"/>
+    </contour>
+    <contour>
+      <point x="1000" y="996" type="move"/>
+      <point x="1000" y="502" type="line" smooth="yes"/>
+      <point x="1000" y="293"/>
+      <point x="831" y="124"/>
+      <point x="623" y="124" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>U</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>U</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

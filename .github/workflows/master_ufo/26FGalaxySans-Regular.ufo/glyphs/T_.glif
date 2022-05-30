@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="1250"/>
+  <unicode hex="0054"/>
+  <unicode hex="0074"/>
+  <anchor x="565" y="0" name="bottom"/>
+  <anchor x="625" y="700" name="center"/>
+  <anchor x="625" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="625" y="6" type="move"/>
+      <point x="625" y="1346" type="line"/>
+    </contour>
+    <contour>
+      <point x="679" y="1400" type="move"/>
+      <point x="76" y="1400" type="line"/>
+    </contour>
+    <contour>
+      <point x="1174" y="1400" type="move"/>
+      <point x="861" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

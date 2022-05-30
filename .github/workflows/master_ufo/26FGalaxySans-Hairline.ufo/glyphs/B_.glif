@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="1240"/>
+  <unicode hex="0042"/>
+  <unicode hex="0062"/>
+  <anchor x="620" y="0" name="bottom"/>
+  <anchor x="620" y="700" name="center"/>
+  <anchor x="620" y="1400" name="top"/>
+  <outline>
+    <contour>
+      <point x="160" y="1000" type="move"/>
+      <point x="160" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="1340" type="move"/>
+      <point x="710" y="1340" type="line" smooth="yes"/>
+      <point x="887" y="1340"/>
+      <point x="1030" y="1197"/>
+      <point x="1030" y="1020" type="curve" smooth="yes"/>
+      <point x="1030" y="843"/>
+      <point x="887" y="700"/>
+      <point x="710" y="700" type="curve" smooth="yes"/>
+      <point x="682" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="550" y="60" type="move"/>
+      <point x="810" y="60" type="line" smooth="yes"/>
+      <point x="987" y="60"/>
+      <point x="1130" y="203"/>
+      <point x="1130" y="380" type="curve" smooth="yes"/>
+      <point x="1130" y="557"/>
+      <point x="987" y="700"/>
+      <point x="810" y="700" type="curve" smooth="yes"/>
+      <point x="440" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=H/2</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
