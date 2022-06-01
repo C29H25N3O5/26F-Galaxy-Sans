@@ -10,15 +10,25 @@
 
 ## Features (Planned)
 
-- Multiple masters and weights
+- [ ] Multiple masters and weights
+  
+  - [ ] Multiple masters
+  
+  - [ ] Multiple weights
+  
+  - [ ] Variable font
+  
+  - [ ] Oblique
 
-- Multi-language support
+- [ ] Multi-language support
 
-- Variable fonts!
+- [ ] Some OpenType Features
+  
+  - [ ] Old-style capital ligatures
 
-- Some OpenType Features
+- [ ] Corner smoothing (to achieve C2 continuity)
 
-- And more!
+- [ ] And more…
 
 ## Build from Source
 
