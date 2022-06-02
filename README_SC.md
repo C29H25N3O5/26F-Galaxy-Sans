@@ -2,8 +2,6 @@
 
 ![使用26F Galaxy Sans字体的文本“26F Galaxy Sans”, 展示了字体支持的不同字重.](./Media/Title.png)
 
-# ***注意: 此字体目前仍在开发中完成度不高, 可能有严重bug, 在开发完成之前不建议使用.***
-
 26F Galaxy Sans是一款开源的可变字体, 灵感来自宇宙航行和太空元素. 这款字体是为了方块游戏[Techmino Galaxy](https://github.com/26F-Studio/Techmino_Galaxy)(目前也仍在开发中)而设计的.
 
 ## 特性 (计划)

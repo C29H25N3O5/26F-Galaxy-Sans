@@ -2,8 +2,6 @@
 
 ![Text “26F Galaxy Sans” in 26F Galaxy Sans displaying a variety of font weights.](./Media/Title.png)
 
-# ***NOTICE: This typeface is currently under development and has not been finished yet.***
-
 [Click here to view the Simplified Chinese Version 点击这里来阅读简中版本](README_SC.md)
 
 26F Galaxy Sans is an open-source variable typeface featuring elements from space and the universe. It is designed for the block stacking game [Techmino Galaxy](https://github.com/26F-Studio/Techmino_Galaxy) (which is currently under development).
