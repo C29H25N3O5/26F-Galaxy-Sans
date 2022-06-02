@@ -8,17 +8,25 @@
 
 ## Features (Planned)
 
-- [ ] Multiple masters and weights
+- [x] Multiple masters and weights
   
-  - [ ] Multiple masters
+  - [x] Multiple masters
   
-  - [ ] Multiple weights
+  - [x] Multiple weights
   
-  - [ ] Variable font
+  - [x] Variable font
   
   - [ ] Oblique
 
-- [ ] Multi-language support
+- [x] Multi-language support
+  
+  - [x] Popular European Languages
+  
+  - [ ] Other European Languages
+  
+  - [ ] Cyrillic
+  
+  - [ ] Greek
 
 - [ ] Some OpenType Features
   
