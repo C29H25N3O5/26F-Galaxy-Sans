@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="2">
+	<advance width="1945"/>
+	<unicode hex="2030"/>
+	<outline>
+		<component base="percent"/>
+		<contour>
+			<point x="1495" y="580" type="curve" smooth="yes"/>
+			<point x="1622" y="580"/>
+			<point x="1725" y="477"/>
+			<point x="1725" y="350" type="curve" smooth="yes"/>
+			<point x="1725" y="223"/>
+			<point x="1622" y="120"/>
+			<point x="1495" y="120" type="curve" smooth="yes"/>
+			<point x="1462" y="120"/>
+			<point x="1435" y="93"/>
+			<point x="1435" y="60" type="curve" smooth="yes"/>
+			<point x="1435" y="27"/>
+			<point x="1462" y="0"/>
+			<point x="1495" y="0" type="curve" smooth="yes"/>
+			<point x="1688" y="0"/>
+			<point x="1845" y="157"/>
+			<point x="1845" y="350" type="curve" smooth="yes"/>
+			<point x="1845" y="543"/>
+			<point x="1688" y="700"/>
+			<point x="1495" y="700" type="curve" smooth="yes"/>
+			<point x="1462" y="700"/>
+			<point x="1435" y="673"/>
+			<point x="1435" y="640" type="curve" smooth="yes"/>
+			<point x="1435" y="607"/>
+			<point x="1462" y="580"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>asterisk</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>asterisk</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

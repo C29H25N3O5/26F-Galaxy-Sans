@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="2">
+	<advance width="1520"/>
+	<unicode hex="221A"/>
+	<outline>
+		<contour>
+			<point x="346" y="0" type="curve" smooth="yes"/>
+			<point x="357" y="0"/>
+			<point x="367" y="8"/>
+			<point x="370" y="19" type="curve" smooth="yes"/>
+			<point x="655" y="928" type="line" smooth="yes"/>
+			<point x="660" y="943"/>
+			<point x="648" y="960"/>
+			<point x="631" y="960" type="curve" smooth="yes"/>
+			<point x="620" y="960"/>
+			<point x="610" y="952"/>
+			<point x="607" y="941" type="curve" smooth="yes"/>
+			<point x="322" y="32" type="line" smooth="yes"/>
+			<point x="317" y="17"/>
+			<point x="329" y="0"/>
+		</contour>
+		<contour>
+			<point x="344" y="2" type="curve" smooth="yes"/>
+			<point x="365" y="2"/>
+			<point x="374" y="25"/>
+			<point x="367" y="39" type="curve" smooth="yes"/>
+			<point x="132" y="535" type="line" smooth="yes"/>
+			<point x="128" y="543"/>
+			<point x="119" y="549"/>
+			<point x="110" y="549" type="curve" smooth="yes"/>
+			<point x="89" y="549"/>
+			<point x="80" y="526"/>
+			<point x="87" y="512" type="curve" smooth="yes"/>
+			<point x="322" y="16" type="line" smooth="yes"/>
+			<point x="326" y="8"/>
+			<point x="335" y="2"/>
+		</contour>
+		<contour>
+			<point x="1410" y="1400" type="curve" smooth="yes"/>
+			<point x="753" y="1400" type="line" smooth="yes"/>
+			<point x="739" y="1400"/>
+			<point x="728" y="1389"/>
+			<point x="728" y="1375" type="curve" smooth="yes"/>
+			<point x="728" y="1361"/>
+			<point x="739" y="1350"/>
+			<point x="753" y="1350" type="curve" smooth="yes"/>
+			<point x="1410" y="1350" type="line" smooth="yes"/>
+			<point x="1423" y="1350"/>
+			<point x="1435" y="1361"/>
+			<point x="1435" y="1375" type="curve" smooth="yes"/>
+			<point x="1435" y="1389"/>
+			<point x="1423" y="1400"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>asterisk</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>asterisk</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

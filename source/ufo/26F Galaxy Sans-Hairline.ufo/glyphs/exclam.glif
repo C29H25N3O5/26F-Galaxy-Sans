@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+	<advance width="245"/>
+	<unicode hex="0021"/>
+	<outline>
+		<contour>
+			<point x="122" y="0" type="curve" smooth="yes"/>
+			<point x="143" y="0"/>
+			<point x="160" y="17"/>
+			<point x="160" y="38" type="curve" smooth="yes"/>
+			<point x="160" y="58"/>
+			<point x="143" y="75"/>
+			<point x="122" y="75" type="curve" smooth="yes"/>
+			<point x="102" y="75"/>
+			<point x="85" y="58"/>
+			<point x="85" y="38" type="curve" smooth="yes"/>
+			<point x="85" y="17"/>
+			<point x="102" y="0"/>
+		</contour>
+		<contour>
+			<point x="97" y="1375" type="curve" smooth="yes"/>
+			<point x="97" y="382" type="line" smooth="yes"/>
+			<point x="97" y="368"/>
+			<point x="108" y="357"/>
+			<point x="122" y="357" type="curve" smooth="yes"/>
+			<point x="136" y="357"/>
+			<point x="147" y="368"/>
+			<point x="147" y="382" type="curve" smooth="yes"/>
+			<point x="147" y="1375" type="line" smooth="yes"/>
+			<point x="147" y="1388"/>
+			<point x="136" y="1400"/>
+			<point x="122" y="1400" type="curve" smooth="yes"/>
+			<point x="108" y="1400"/>
+			<point x="97" y="1388"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>I</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

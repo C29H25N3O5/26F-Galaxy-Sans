@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="2">
+	<advance width="1165"/>
+	<unicode hex="016A"/>
+	<unicode hex="016B"/>
+	<outline>
+		<component base="U"/>
+		<component base="uni0304" xOffset="583"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

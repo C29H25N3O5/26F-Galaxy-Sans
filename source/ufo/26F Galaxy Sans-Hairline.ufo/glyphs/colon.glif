@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="2">
+	<advance width="235"/>
+	<unicode hex="003A"/>
+	<outline>
+		<contour>
+			<point x="117" y="983" type="curve" smooth="yes"/>
+			<point x="138" y="983"/>
+			<point x="155" y="1000"/>
+			<point x="155" y="1020" type="curve" smooth="yes"/>
+			<point x="155" y="1041"/>
+			<point x="138" y="1058"/>
+			<point x="117" y="1058" type="curve" smooth="yes"/>
+			<point x="97" y="1058"/>
+			<point x="80" y="1041"/>
+			<point x="80" y="1020" type="curve" smooth="yes"/>
+			<point x="80" y="1000"/>
+			<point x="97" y="983"/>
+		</contour>
+		<contour>
+			<point x="117" y="343" type="curve" smooth="yes"/>
+			<point x="138" y="343"/>
+			<point x="155" y="360"/>
+			<point x="155" y="380" type="curve" smooth="yes"/>
+			<point x="155" y="401"/>
+			<point x="138" y="418"/>
+			<point x="117" y="418" type="curve" smooth="yes"/>
+			<point x="97" y="418"/>
+			<point x="80" y="401"/>
+			<point x="80" y="380" type="curve" smooth="yes"/>
+			<point x="80" y="360"/>
+			<point x="97" y="343"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>period</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>period</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>

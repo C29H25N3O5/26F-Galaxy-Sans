@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+	<advance width="1166"/>
+	<unicode hex="0024"/>
+	<outline>
+		<contour>
+			<point x="620" y="-292" type="curve" smooth="yes"/>
+			<point x="620" y="-152" type="line" smooth="yes"/>
+			<point x="620" y="-119"/>
+			<point x="593" y="-92"/>
+			<point x="560" y="-92" type="curve" smooth="yes"/>
+			<point x="527" y="-92"/>
+			<point x="500" y="-119"/>
+			<point x="500" y="-152" type="curve" smooth="yes"/>
+			<point x="500" y="-292" type="line" smooth="yes"/>
+			<point x="500" y="-325"/>
+			<point x="527" y="-352"/>
+			<point x="560" y="-352" type="curve" smooth="yes"/>
+			<point x="593" y="-352"/>
+			<point x="620" y="-325"/>
+		</contour>
+		<component base="S"/>
+		<contour>
+			<point x="620" y="1552" type="curve" smooth="yes"/>
+			<point x="620" y="1692" type="line" smooth="yes"/>
+			<point x="620" y="1725"/>
+			<point x="593" y="1752"/>
+			<point x="560" y="1752" type="curve" smooth="yes"/>
+			<point x="527" y="1752"/>
+			<point x="500" y="1725"/>
+			<point x="500" y="1692" type="curve" smooth="yes"/>
+			<point x="500" y="1552" type="line" smooth="yes"/>
+			<point x="500" y="1519"/>
+			<point x="527" y="1492"/>
+			<point x="560" y="1492" type="curve" smooth="yes"/>
+			<point x="593" y="1492"/>
+			<point x="620" y="1519"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>S</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>S</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -7,12 +7,56 @@ name = Weight;
 tag = wght;
 }
 );
+customParameters = (
+{
+name = "Variable Font Origin";
+value = "19FA402B-9607-46D9-AAD6-815AECBA5B6B";
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
 date = "2022-05-27 18:49:23 +0000";
 familyName = "26F Galaxy Sans";
 fontMaster = (
 {
 axesValues = (
 50
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 iconName = Light;
 id = m01;
@@ -40,6 +84,40 @@ stemValues = (
 {
 axesValues = (
 120
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 id = "19FA402B-9607-46D9-AAD6-815AECBA5B6B";
 metricValues = (
@@ -74,6 +152,40 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 300
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 iconName = Bold;
 id = "FF87E3F2-B049-41CB-BF2F-09DB15105515";
@@ -28352,6 +28464,40 @@ instances = (
 axesValues = (
 50
 );
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
+);
 instanceInterpolations = {
 m01 = 1;
 };
@@ -28362,6 +28508,40 @@ type = variable;
 axesValues = (
 50
 );
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
+);
 instanceInterpolations = {
 m01 = 1;
 };
@@ -28371,6 +28551,40 @@ weightClass = 50;
 {
 axesValues = (
 65
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.21429;
@@ -28383,6 +28597,40 @@ weightClass = 100;
 axesValues = (
 83
 );
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
+);
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.47143;
 m01 = 0.52857;
@@ -28393,6 +28641,40 @@ weightClass = 200;
 {
 axesValues = (
 95
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.64286;
@@ -28405,6 +28687,40 @@ weightClass = 300;
 axesValues = (
 120
 );
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
+);
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 1;
 };
@@ -28413,6 +28729,40 @@ name = Regular;
 {
 axesValues = (
 159
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.78333;
@@ -28424,6 +28774,40 @@ weightClass = 500;
 {
 axesValues = (
 206
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.52222;
@@ -28438,6 +28822,40 @@ weightClass = 700;
 axesValues = (
 257
 );
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
+);
 instanceInterpolations = {
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = 0.23889;
 "FF87E3F2-B049-41CB-BF2F-09DB15105515" = 0.76111;
@@ -28448,6 +28866,40 @@ weightClass = 800;
 {
 axesValues = (
 300
+);
+customParameters = (
+{
+name = hheaAscender;
+value = 2300;
+},
+{
+name = hheaDescender;
+value = -400;
+},
+{
+name = hheaLineGap;
+value = 100;
+},
+{
+name = typoAscender;
+value = 2300;
+},
+{
+name = typoDescender;
+value = -400;
+},
+{
+name = typoLineGap;
+value = 100;
+},
+{
+name = winAscent;
+value = 2300;
+},
+{
+name = winDescent;
+value = 400;
+}
 );
 instanceInterpolations = {
 "FF87E3F2-B049-41CB-BF2F-09DB15105515" = 1;
@@ -29047,7 +29499,7 @@ stems = (
 name = "Main Stem";
 }
 );
-unitsPerEm = 2000;
+unitsPerEm = 2700;
 versionMajor = 1;
 versionMinor = 0;
 }

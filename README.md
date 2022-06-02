@@ -56,6 +56,34 @@ You can either build the fonts using the Glyphs app (or other font editing progr
 
 4. Find the compiled fonts in the `fonts` folder.
 
+### Notes for non-Glyphs users
+
+It is strongly recommended to use original Glyphs files whenever possible as it preserves the original auto strokes for easier editing (though some glyphs are decomposed in order to avoid compatibility issues). 
+
+But if that is not possible for you, you can also use the exported UFO (unified font object) files as an alternative choice. However:
+
+- All the auto strokes and other Glyphs-specific smart stuff are decomposed to outlines in UFO files.
+
+- Because of this, it is not possible for me to directly save the Glyphs files as UFO. To export UFO files, it is necessary to decompose all the smart stuff manually and export each master into an independent UFO file, so UFO files may not update as timely as the Glyphs files.
+
+- Since UFO does not support multiple masters, you need to interpolate using specific programs in order to get multiple weights and variable fonts by combining the provided masters in UFO.
+
+- The actual weights of the exported static font files are as follows if you want to generate all weights included in the distro:
+  
+  | **Weights** | **Actual Stem widths** | **Weight Class (Recommended)** |
+  | ----------- | ---------------------- | ------------------------------ |
+  | *Hairline*  | *50*                   | *50*                           |
+  | Thin        | 65                     | 100                            |
+  | Ultra Light | 83                     | 200                            |
+  | Light       | 95                     | 300                            |
+  | *Regular*   | *120*                  | *400*                          |
+  | Medium      | 159                    | 500                            |
+  | Bold        | 206                    | 600                            |
+  | Extra Bold  | 257                    | 700                            |
+  | *Black*     | *300*                  | *800*                          |
+  
+  *The weights in italics represent the weights of the original masters.*
+
 ## License
 
 26F Galaxy Sans is under a [SIL Open Font License, Version 1.1](https://github.com/26F-Studio/26F-Sans/blob/main/OFL.txt). You can use, modify, and redistribute the compiled fonts and the source files free of charge and you do not need to attribute to 26F Studio (But we would appreciate that if you do so).

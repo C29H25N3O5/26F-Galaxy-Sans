@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="2">
+	<advance width="1295"/>
+	<unicode hex="0139"/>
+	<unicode hex="013A"/>
+	<outline>
+		<component base="L"/>
+		<component base="acutecomb" xOffset="315"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

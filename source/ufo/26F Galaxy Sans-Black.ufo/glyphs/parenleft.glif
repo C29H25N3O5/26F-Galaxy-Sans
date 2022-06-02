@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="2">
+	<advance width="722"/>
+	<unicode hex="0028"/>
+	<outline>
+		<contour>
+			<point x="541" y="241" type="curve" smooth="yes"/>
+			<point x="382" y="448"/>
+			<point x="382" y="952"/>
+			<point x="541" y="1159" type="curve" smooth="yes"/>
+			<point x="560" y="1184"/>
+			<point x="572" y="1216"/>
+			<point x="572" y="1250" type="curve" smooth="yes"/>
+			<point x="572" y="1333"/>
+			<point x="505" y="1400"/>
+			<point x="422" y="1400" type="curve" smooth="yes"/>
+			<point x="373" y="1400"/>
+			<point x="330" y="1376"/>
+			<point x="303" y="1340" type="curve" smooth="yes"/>
+			<point x="59" y="1015"/>
+			<point x="59" y="385"/>
+			<point x="303" y="60" type="curve" smooth="yes"/>
+			<point x="330" y="24"/>
+			<point x="373" y="1"/>
+			<point x="422" y="1" type="curve" smooth="yes"/>
+			<point x="504" y="1"/>
+			<point x="571" y="68"/>
+			<point x="571" y="150" type="curve" smooth="yes"/>
+			<point x="571" y="184"/>
+			<point x="560" y="215"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>asterisk</string>
+			<key>public.markColor</key>
+			<string>0.98,0.36,0.67,1</string>
+		</dict>
+	</lib>
+</glyph>
