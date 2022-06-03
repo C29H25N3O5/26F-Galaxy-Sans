@@ -38,6 +38,8 @@
 
 ## Build from Source
 
+**NB: I used a Glyphs-specific feature called auto stroke in order to make editing easier. However, it seems that `gftools` cannot understand this new feature. Therefore, it is highly recommended to use the original Glyphs 3 app to build the font files. If you still want to build the font files using `gftools`, make sure to use the Glyph files in the `./build` directory. I would export the flattened Glyphs and UFO files on a regular interval so please stay tuned.**
+
 You can either build the fonts using the Glyphs app (or other font editing programs) directly, or you can choose to build them in the command line using the Google Font Tools (`gftools`). You have to install Python 3.7 or later to use `gftools`.
 
 1. Install `gftools` by executing the following command:
@@ -54,7 +56,7 @@ You can either build the fonts using the Glyphs app (or other font editing progr
    gftools builder config.yaml
    ```
 
-4. Find the compiled fonts in the `fonts` folder.
+4. Find the compiled fonts in the `.github/fonts` folder.
 
 ### Notes for non-Glyphs users
 

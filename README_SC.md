@@ -36,6 +36,8 @@
 
 ## 从源码构建
 
+**注意: 在制作本套字体过程中, 我使用了一个Glyph的特有功能(auto stroke, 自动笔划)来让编辑更简易; 但是似乎`gftools`无法读取这种新格式. 因此, 强烈建议使用原版Glyphs 3软件来导出字体文件. 如果你还是想使用`gftools`来构建字体文件的话, 请确认使用`./build`目录下的Glyphs文件. 我会定期导出轮廓化的Glyphs和UFO文件, 所以请持续关注.**
+
 你可以使用Glyphs(或其他字体编辑软件)来直接构建本字体, 或使用命令行工具Google Font Tools (`gftools`). 你需要Python 3.7或之后的Python来使用`gftools`.
 
 1. 执行以下代码来安装 `gftools` :
@@ -52,7 +54,7 @@
    gftools builder config.yaml
    ```
 
-4. 在 `fonts` 目录中找到构建好的字体文件.
+4. 在 `.github/fonts` 目录中找到构建好的字体文件.
 
 ## 对于非Glyphs用户
 
