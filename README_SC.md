@@ -1,6 +1,6 @@
 # 26F Galaxy Sans
 
-![使用26F Galaxy Sans字体的文本“26F Galaxy Sans”, 展示了字体支持的不同字重.](./Media/Title.png)
+![一个使用26F Galaxy Sans字体的文本“26F Galaxy Sans”的动画, 展示了字体支持的不同字重.](./media/title.gif)
 
 26F Galaxy Sans是一款开源的可变字体, 灵感来自宇宙航行和太空元素. 这款字体是为了方块游戏[Techmino Galaxy](https://github.com/26F-Studio/Techmino_Galaxy)(目前也仍在开发中)而设计的.
 
@@ -20,13 +20,13 @@
   
   - [x] 常用欧洲语言
   
-  - [ ] 其他欧洲语言
+  - [x] 其他欧洲语言
   
   - [ ] 西里尔文
   
   - [ ] 希腊文
 
-- [ ] 一些 OpenType Features
+- [x] 一些 OpenType Features
   
   - [ ] 大写连字
 

@@ -34585,6 +34585,13 @@ R = -70;
 "@MMK_R_S" = -43;
 "@MMK_R_SEMICOLON" = -86;
 };
+"@MMK_L_THORN" = {
+"@MMK_R_T" = -103;
+"@MMK_R_V" = -68;
+"@MMK_R_W" = -68;
+"@MMK_R_X" = -51;
+"@MMK_R_Y" = -111;
+};
 "@MMK_L_U" = {
 "@MMK_R_A" = -60;
 "@MMK_R_COMMA" = -51;
@@ -34634,13 +34641,6 @@ P = {
 };
 Q = {
 "@MMK_R_COMMA" = 0;
-};
-"@MMK_L_THORN" = {
-"@MMK_R_T" = -103;
-"@MMK_R_V" = -68;
-"@MMK_R_W" = -68;
-"@MMK_R_X" = -51;
-"@MMK_R_Y" = -111;
 };
 };
 "19FA402B-9607-46D9-AAD6-815AECBA5B6B" = {
@@ -34961,6 +34961,13 @@ R = -70;
 "@MMK_R_S" = -71;
 "@MMK_R_SEMICOLON" = -143;
 };
+"@MMK_L_THORN" = {
+"@MMK_R_T" = -170;
+"@MMK_R_V" = -113;
+"@MMK_R_W" = -113;
+"@MMK_R_X" = -85;
+"@MMK_R_Y" = -184;
+};
 "@MMK_L_U" = {
 "@MMK_R_A" = -100;
 "@MMK_R_COMMA" = -86;
@@ -35010,13 +35017,6 @@ P = {
 };
 Q = {
 "@MMK_R_COMMA" = 0;
-};
-"@MMK_L_THORN" = {
-"@MMK_R_T" = -170;
-"@MMK_R_V" = -113;
-"@MMK_R_W" = -113;
-"@MMK_R_X" = -85;
-"@MMK_R_Y" = -184;
 };
 };
 };

@@ -1,6 +1,6 @@
 # 26F Galaxy Sans
 
-![Text “26F Galaxy Sans” in 26F Galaxy Sans displaying a variety of font weights.](./Media/Title.png)
+![An animation of “26F Galaxy Sans” in 26F Galaxy Sans showing varying weights.](./media/title.gif)
 
 [Click here to view the Simplified Chinese Version 点击这里来阅读简中版本](README_SC.md)
 
@@ -22,7 +22,7 @@
   
   - [x] Popular European Languages
   
-  - [ ] Other European Languages
+  - [x] Other European Languages
   
   - [ ] Cyrillic
   
