@@ -2,9 +2,10 @@
 <glyph name="Gbreve" format="2">
 	<advance width="1534"/>
 	<unicode hex="011E"/>
+	<unicode hex="011F"/>
 	<outline>
 		<component base="G"/>
-		<component base="uni0306" xOffset="797"/>
+		<component base="uni0306" xOffset="847"/>
 	</outline>
 	<lib>
 		<dict>

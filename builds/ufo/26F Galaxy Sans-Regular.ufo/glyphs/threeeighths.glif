@@ -3,9 +3,9 @@
 	<advance width="1426"/>
 	<unicode hex="215C"/>
 	<outline>
-		<component base="uni00B3"/>
+		<component base="three.numr"/>
 		<component base="fraction" xOffset="540"/>
-		<component base="uni2088" xOffset="886"/>
+		<component base="eight.dnom" xOffset="886"/>
 	</outline>
 	<lib>
 		<dict>

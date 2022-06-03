@@ -4,6 +4,8 @@
 	<unicode hex="0302"/>
 	<anchor x="0" y="1400" name="_top"/>
 	<anchor x="0" y="1880" name="top"/>
+	<anchor x="235" y="1651" name="top_viet"/>
+	<anchor x="453" y="1640" name="top_viet_grave"/>
 	<outline>
 		<contour>
 			<point x="-56" y="1863" type="curve" smooth="yes"/>

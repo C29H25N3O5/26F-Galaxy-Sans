@@ -253,6 +253,19 @@
 		<key>public.kern2.SEMICOLON</key>
 		<integer>-86</integer>
 	</dict>
+	<key>public.kern1.THORN</key>
+	<dict>
+		<key>public.kern2.T</key>
+		<integer>-103</integer>
+		<key>public.kern2.V</key>
+		<integer>-68</integer>
+		<key>public.kern2.W</key>
+		<integer>-68</integer>
+		<key>public.kern2.X</key>
+		<integer>-51</integer>
+		<key>public.kern2.Y</key>
+		<integer>-111</integer>
+	</dict>
 	<key>public.kern1.U</key>
 	<dict>
 		<key>public.kern2.A</key>

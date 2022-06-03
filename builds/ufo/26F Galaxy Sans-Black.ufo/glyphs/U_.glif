@@ -4,9 +4,9 @@
 	<unicode hex="0055"/>
 	<unicode hex="0075"/>
 	<anchor x="706" y="0" name="bottom"/>
-	<anchor x="1270" y="10" name="ogonek"/>
+	<anchor x="706" y="0" name="ogonek"/>
 	<anchor x="706" y="1400" name="top"/>
-	<anchor x="1391" y="1400" name="topright"/>
+	<anchor x="961" y="1250" name="topright"/>
 	<outline>
 		<contour>
 			<point x="450" y="999" type="curve" smooth="yes"/>

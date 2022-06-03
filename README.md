@@ -28,7 +28,7 @@
   
   - [ ] Greek
 
-- [ ] Some OpenType Features
+- [x] Some OpenType Features
   
   - [ ] Old-style capital ligatures
 
@@ -69,6 +69,8 @@ But if that is not possible for you, you can also use the exported UFO (unified 
 - Because of this, it is not possible for me to directly save the Glyphs files as UFO. To export UFO files, it is necessary to decompose all the smart stuff manually and export each master into an independent UFO file, so UFO files may not update as timely as the Glyphs files.
 
 - Since UFO does not support multiple masters, you need to interpolate using specific programs in order to get multiple weights and variable fonts by combining the provided masters in UFO.
+
+- All the user-friendly glyph names are converted to production names (`u####`).
 
 - The actual weights of the exported static font files are as follows if you want to generate all weights included in the distro:
   

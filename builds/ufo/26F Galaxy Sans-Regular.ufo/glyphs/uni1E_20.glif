@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E20" format="2">
+	<advance width="1380"/>
+	<unicode hex="1E20"/>
+	<unicode hex="1E21"/>
+	<outline>
+		<component base="G"/>
+		<component base="uni0304" xOffset="790"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>
