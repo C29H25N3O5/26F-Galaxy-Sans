@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F_F" format="2">
+	<advance width="2138"/>
+	<outline>
+		<component base="F"/>
+		<component base="F" xOffset="1069"/>
+		<contour>
+			<point x="928" y="1400" type="line"/>
+			<point x="928" y="1280" type="line"/>
+			<point x="1233" y="1280" type="line"/>
+			<point x="1233" y="1400" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>F</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>F</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

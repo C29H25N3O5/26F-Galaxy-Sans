@@ -153,6 +153,8 @@
 		<integer>-163</integer>
 		<key>public.kern2.COMMA</key>
 		<integer>-171</integer>
+		<key>public.kern2.E</key>
+		<integer>-60</integer>
 		<key>public.kern2.J</key>
 		<integer>-103</integer>
 		<key>public.kern2.O</key>

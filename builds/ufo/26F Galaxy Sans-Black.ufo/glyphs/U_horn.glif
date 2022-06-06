@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorn" format="2">
-	<advance width="1411"/>
+	<advance width="1339"/>
 	<unicode hex="01AF"/>
 	<unicode hex="01B0"/>
 	<outline>
 		<component base="U"/>
-		<component base="uni031B" xOffset="1159" yOffset="-1"/>
+		<component base="uni031B" xOffset="1127"/>
 	</outline>
 	<lib>
 		<dict>

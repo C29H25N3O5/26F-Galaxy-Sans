@@ -30,6 +30,8 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>C_O</key>
+	<string>C__O_.glif</string>
 	<key>Cacute</key>
 	<string>C_acute.glif</string>
 	<key>Ccaron</key>
@@ -70,6 +72,14 @@
 	<string>E_uro.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>F_F</key>
+	<string>F__F_.glif</string>
+	<key>F_F_I</key>
+	<string>F__F__I_.glif</string>
+	<key>F_F_L</key>
+	<string>F__F__L_.glif</string>
+	<key>F_L</key>
+	<string>F__L_.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>Gbreve</key>
@@ -80,6 +90,8 @@
 	<string>G_dotaccent.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
+	<key>H_E</key>
+	<string>H__E_.glif</string>
 	<key>Hcircumflex</key>
 	<string>H_circumflex.glif</string>
 	<key>I</key>
@@ -110,6 +122,12 @@
 	<string>K_.glif</string>
 	<key>L</key>
 	<string>L_.glif</string>
+	<key>L_A</key>
+	<string>L__A_.glif</string>
+	<key>L_I</key>
+	<string>L__I_.glif</string>
+	<key>L_N</key>
+	<string>L__N_.glif</string>
 	<key>Lacute</key>
 	<string>L_acute.glif</string>
 	<key>Lcaron</key>
@@ -120,8 +138,12 @@
 	<string>L_slash.glif</string>
 	<key>M</key>
 	<string>M_.glif</string>
+	<key>M_M</key>
+	<string>M__M_.glif</string>
 	<key>N</key>
 	<string>N_.glif</string>
+	<key>N_N</key>
+	<string>N__N_.glif</string>
 	<key>Nacute</key>
 	<string>N_acute.glif</string>
 	<key>Ncaron</key>
@@ -172,6 +194,10 @@
 	<string>S_circumflex.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>T_E</key>
+	<string>T__E_.glif</string>
+	<key>T_T</key>
+	<string>T__T_.glif</string>
 	<key>Tcaron</key>
 	<string>T_caron.glif</string>
 	<key>Thorn</key>
@@ -232,6 +258,8 @@
 	<string>Z_caron.glif</string>
 	<key>Zdotaccent</key>
 	<string>Z_dotaccent.glif</string>
+	<key>_O</key>
+	<string>_O_.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
 	<key>acutecomb</key>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="degree" format="2">
-	<advance width="1048"/>
+	<advance width="968"/>
 	<unicode hex="00B0"/>
 	<outline>
-		<component base="ordmasculine" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="-499" yOffset="1460"/>
+		<component base="ordmasculine" xScale="0" xyScale="-1" yScale="0" yxScale="1" xOffset="-539" yOffset="1460"/>
 	</outline>
 	<lib>
 		<dict>

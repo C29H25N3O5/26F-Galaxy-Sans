@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-	<advance width="1233"/>
+	<advance width="1289"/>
 	<unicode hex="0160"/>
 	<unicode hex="0161"/>
 	<outline>
 		<component base="S"/>
-		<component base="uni030C" xOffset="617"/>
+		<component base="uni030C" xOffset="645"/>
 	</outline>
 	<lib>
 		<dict>

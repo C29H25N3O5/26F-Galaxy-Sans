@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H_E" format="2">
+	<advance width="2070"/>
+	<outline>
+		<contour>
+			<point x="220" y="60" type="curve" smooth="yes"/>
+			<point x="220" y="351" type="line" smooth="yes"/>
+			<point x="220" y="384"/>
+			<point x="193" y="411"/>
+			<point x="160" y="411" type="curve" smooth="yes"/>
+			<point x="127" y="411"/>
+			<point x="100" y="384"/>
+			<point x="100" y="351" type="curve" smooth="yes"/>
+			<point x="100" y="60" type="line" smooth="yes"/>
+			<point x="100" y="27"/>
+			<point x="127" y="0"/>
+			<point x="160" y="0" type="curve" smooth="yes"/>
+			<point x="193" y="0"/>
+			<point x="220" y="27"/>
+		</contour>
+		<contour>
+			<point x="100" y="1340" type="curve" smooth="yes"/>
+			<point x="100" y="700" type="line" smooth="yes"/>
+			<point x="100" y="667"/>
+			<point x="127" y="640"/>
+			<point x="160" y="640" type="curve" smooth="yes"/>
+			<point x="193" y="640"/>
+			<point x="220" y="667"/>
+			<point x="220" y="700" type="curve" smooth="yes"/>
+			<point x="220" y="1340" type="line" smooth="yes"/>
+			<point x="220" y="1373"/>
+			<point x="193" y="1400"/>
+			<point x="160" y="1400" type="curve" smooth="yes"/>
+			<point x="127" y="1400"/>
+			<point x="100" y="1373"/>
+		</contour>
+		<contour>
+			<point x="1166" y="760" type="line"/>
+			<point x="160" y="760" type="line"/>
+			<point x="160" y="640" type="line"/>
+			<point x="1166" y="640" type="line"/>
+		</contour>
+		<contour>
+			<point x="1106" y="700" type="curve" smooth="yes"/>
+			<point x="1106" y="60" type="line" smooth="yes"/>
+			<point x="1106" y="27"/>
+			<point x="1133" y="0"/>
+			<point x="1166" y="0" type="curve" smooth="yes"/>
+			<point x="1199" y="0"/>
+			<point x="1226" y="27"/>
+			<point x="1226" y="60" type="curve" smooth="yes"/>
+			<point x="1226" y="700" type="line" smooth="yes"/>
+			<point x="1226" y="733"/>
+			<point x="1199" y="760"/>
+			<point x="1166" y="760" type="curve" smooth="yes"/>
+			<point x="1133" y="760"/>
+			<point x="1106" y="733"/>
+		</contour>
+		<contour>
+			<point x="1930" y="120" type="curve" smooth="yes"/>
+			<point x="1166" y="120" type="line" smooth="yes"/>
+			<point x="1133" y="120"/>
+			<point x="1106" y="93"/>
+			<point x="1106" y="60" type="curve" smooth="yes"/>
+			<point x="1106" y="27"/>
+			<point x="1133" y="0"/>
+			<point x="1166" y="0" type="curve" smooth="yes"/>
+			<point x="1930" y="0" type="line" smooth="yes"/>
+			<point x="1963" y="0"/>
+			<point x="1990" y="27"/>
+			<point x="1990" y="60" type="curve" smooth="yes"/>
+			<point x="1990" y="93"/>
+			<point x="1963" y="120"/>
+		</contour>
+		<contour>
+			<point x="1493" y="640" type="curve" smooth="yes"/>
+			<point x="1930" y="640" type="line" smooth="yes"/>
+			<point x="1963" y="640"/>
+			<point x="1990" y="667"/>
+			<point x="1990" y="700" type="curve" smooth="yes"/>
+			<point x="1990" y="733"/>
+			<point x="1963" y="760"/>
+			<point x="1930" y="760" type="curve" smooth="yes"/>
+			<point x="1493" y="760" type="line" smooth="yes"/>
+			<point x="1460" y="760"/>
+			<point x="1433" y="733"/>
+			<point x="1433" y="700" type="curve" smooth="yes"/>
+			<point x="1433" y="667"/>
+			<point x="1460" y="640"/>
+		</contour>
+		<contour>
+			<point x="1166" y="1280" type="curve" smooth="yes"/>
+			<point x="1930" y="1280" type="line" smooth="yes"/>
+			<point x="1963" y="1280"/>
+			<point x="1990" y="1307"/>
+			<point x="1990" y="1340" type="curve" smooth="yes"/>
+			<point x="1990" y="1373"/>
+			<point x="1963" y="1400"/>
+			<point x="1930" y="1400" type="curve" smooth="yes"/>
+			<point x="1166" y="1400" type="line" smooth="yes"/>
+			<point x="1133" y="1400"/>
+			<point x="1106" y="1373"/>
+			<point x="1106" y="1340" type="curve" smooth="yes"/>
+			<point x="1106" y="1307"/>
+			<point x="1133" y="1280"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

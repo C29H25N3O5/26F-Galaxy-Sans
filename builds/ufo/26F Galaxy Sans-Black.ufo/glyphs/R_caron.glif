@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="2">
-	<advance width="1410"/>
+	<advance width="1355"/>
 	<unicode hex="0158"/>
 	<unicode hex="0159"/>
 	<outline>
 		<component base="R"/>
-		<component base="uni030C" xOffset="705"/>
+		<component base="uni030C" xOffset="665"/>
 	</outline>
 	<lib>
 		<dict>

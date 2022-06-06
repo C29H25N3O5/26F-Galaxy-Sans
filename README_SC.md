@@ -4,35 +4,26 @@
 
 26F Galaxy Sans是一款开源的可变字体, 灵感来自宇宙航行和太空元素. 这款字体是为了方块游戏[Techmino Galaxy](https://github.com/26F-Studio/Techmino_Galaxy)(目前也仍在开发中)而设计的.
 
-## 特性 (计划)
+## 特性
 
-- [x] 多母版和字重
-  
-  - [x] 多母版
-  
-  - [x] 多字重
-  
-  - [x] 可变字体
-  
-  - [ ] 伪斜体
+### 可变字体
 
-- [x] 多语言支持
-  
-  - [x] 常用欧洲语言
-  
-  - [x] 其他欧洲语言
-  
-  - [ ] 西里尔文
-  
-  - [ ] 希腊文
+26F Galaxy Sans提供可变字体文件, 字重范围为50\~300.
 
-- [x] 一些 OpenType Features
-  
-  - [ ] 大写连字
+![一个使用26F Galaxy Sans字体的文本“The power of variable fonts”的动画, 展示了可变字重的特性.](./media/variable.gif)
 
-- [ ] 拐角平滑化 (实现C2连续)
+### 多种字重
 
-- [ ] 等等…
+26F Galaxy Sans为不支持可变字体的软件提供多字重的静态字体文件. Static Build包括9种不同的字重, 可用于各种用途.
+
+![一个显示了26F Galaxy Sans和其伪斜体九种字重的图片.](./media/weights.jpg)
+
+### 全大写连字
+
+26F Galaxy Sans也支持全大写连字. 只需启用`liga`和`dlig`OpenType特性即可使用.
+
+![一个显示了26F Galaxy Sans所有支持的连字的图片.](./media/ligatures.jpg)
+
 
 ## 从源码构建
 
@@ -40,7 +31,7 @@
 
 你可以使用Glyphs(或其他字体编辑软件)来直接构建本字体, 或使用命令行工具Google Font Tools (`gftools`). 你需要Python 3.7或之后的Python来使用`gftools`.
 
-1. 执行以下代码来安装 `gftools` :
+1. 执行以下代码来安装 `gftools` :
    
    ```
    $ pip install gftools
@@ -54,7 +45,7 @@
    gftools builder config.yaml
    ```
 
-4. 在 `.github/fonts` 目录中找到构建好的字体文件.
+4. 在 `.github/fonts` 目录中找到构建好的字体文件.
 
 ## 对于非Glyphs用户
 
@@ -97,3 +88,5 @@ Build.yml文件改编自[JetBrains Mono仓库](https://github.com/JetBrains/JetB
 # 作者
 
 - 字体设计和测试: C₂₉H₂₅N₃O₅ 
+
+![尾图](./media/end.jpg)
