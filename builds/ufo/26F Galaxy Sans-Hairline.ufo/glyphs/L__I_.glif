@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L_I" format="2">
+	<advance width="1190"/>
+	<outline>
+		<component base="L"/>
+		<contour>
+			<point x="1100" y="277" type="curve" smooth="yes"/>
+			<point x="1100" y="661" type="line" smooth="yes"/>
+			<point x="1100" y="675"/>
+			<point x="1089" y="686"/>
+			<point x="1075" y="686" type="curve" smooth="yes"/>
+			<point x="1061" y="686"/>
+			<point x="1050" y="675"/>
+			<point x="1050" y="661" type="curve" smooth="yes"/>
+			<point x="1050" y="277" type="line" smooth="yes"/>
+			<point x="1050" y="263"/>
+			<point x="1061" y="252"/>
+			<point x="1075" y="252" type="curve" smooth="yes"/>
+			<point x="1089" y="252"/>
+			<point x="1100" y="263"/>
+		</contour>
+		<contour>
+			<point x="1100" y="989" type="curve" smooth="yes"/>
+			<point x="1100" y="1375" type="line" smooth="yes"/>
+			<point x="1100" y="1388"/>
+			<point x="1089" y="1400"/>
+			<point x="1075" y="1400" type="curve" smooth="yes"/>
+			<point x="1061" y="1400"/>
+			<point x="1050" y="1388"/>
+			<point x="1050" y="1375" type="curve" smooth="yes"/>
+			<point x="1050" y="989" type="line" smooth="yes"/>
+			<point x="1050" y="975"/>
+			<point x="1061" y="964"/>
+			<point x="1075" y="964" type="curve" smooth="yes"/>
+			<point x="1089" y="964"/>
+			<point x="1100" y="975"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>L</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>I</string>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

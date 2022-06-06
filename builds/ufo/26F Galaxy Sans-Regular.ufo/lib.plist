@@ -208,6 +208,19 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>uni1E9E.old</string>
+		<string>C_O</string>
+		<string>F_F</string>
+		<string>F_F_I</string>
+		<string>F_F_L</string>
+		<string>F_L</string>
+		<string>H_E</string>
+		<string>L_A</string>
+		<string>L_I</string>
+		<string>L_N</string>
+		<string>M_M</string>
+		<string>N_N</string>
+		<string>T_E</string>
+		<string>T_T</string>
 		<string>i</string>
 		<string>fi</string>
 		<string>fl</string>
@@ -396,6 +409,7 @@
 		<string>macron</string>
 		<string>cedilla</string>
 		<string>ogonek</string>
+		<string>_O</string>
 	</array>
 </dict>
 </plist>

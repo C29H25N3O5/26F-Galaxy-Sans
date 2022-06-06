@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="2">
-	<advance width="1301"/>
+	<advance width="1270"/>
 	<unicode hex="00C7"/>
 	<unicode hex="00E7"/>
 	<outline>
 		<component base="C"/>
-		<component base="uni0327" xOffset="651"/>
+		<component base="uni0327" xOffset="631"/>
 	</outline>
 	<lib>
 		<dict>

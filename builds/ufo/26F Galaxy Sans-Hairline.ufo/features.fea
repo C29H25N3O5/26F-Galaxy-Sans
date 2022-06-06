@@ -1,16 +1,16 @@
-@MMK_L_A = [A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde];
+@MMK_L_A = [A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde L_A];
 @MMK_L_B = [B];
 @MMK_L_C = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent];
 @MMK_L_COLON = [colon];
 @MMK_L_COMMA = [comma quotesinglbase quotedblbase];
-@MMK_L_E = [AE E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC OE];
-@MMK_L_F = [F];
+@MMK_L_E = [AE E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC OE H_E T_E];
+@MMK_L_F = [F F_F];
 @MMK_L_G = [G Gbreve Gcircumflex uni0122 Gdotaccent uni1E20];
-@MMK_L_I = [H Hcircumflex I Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde M N Nacute Ncaron uni0145 Ntilde uniA78B i fi];
+@MMK_L_I = [H Hcircumflex I Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde M N Nacute Ncaron uni0145 Ntilde uniA78B C_O F_F_I L_I L_N M_M N_N i fi];
 @MMK_L_J = [IJ J uni004A0301 Jcircumflex];
 @MMK_L_K = [K uni0136];
-@MMK_L_L = [L Lacute Lcaron uni013B Ldot Lslash fl];
-@MMK_L_O = [D Eth Dcaron Dcroat uni018F O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Oslash Otilde Q];
+@MMK_L_L = [L Lacute Lcaron uni013B Ldot Lslash F_F_L F_L fl];
+@MMK_L_O = [D Eth Dcaron Dcroat uni018F O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Oslash Otilde Q _O];
 @MMK_L_P = [P];
 @MMK_L_PERIOD = [period];
 @MMK_L_QUOTE = [quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle];
@@ -18,7 +18,7 @@
 @MMK_L_S = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E9E.old];
 @MMK_L_SEMICOLON = [semicolon];
 @MMK_L_SZ = [uni1E9E];
-@MMK_L_T = [T Tcaron uni0162 uni021A];
+@MMK_L_T = [T Tcaron uni0162 uni021A T_T];
 @MMK_L_THORN = [Thorn];
 @MMK_L_U = [U Uacute Ubreve uni01D3 Ucircumflex Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde];
 @MMK_L_V = [V];
@@ -29,17 +29,17 @@
 @MMK_R_A = [A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde AE];
 @MMK_R_COLON = [colon];
 @MMK_R_COMMA = [comma quotesinglbase quotedblbase];
-@MMK_R_F = [fi fl];
+@MMK_R_E = [F F_F F_F_I F_F_L F_L fi fl];
 @MMK_R_HYPHEN = [hyphen endash emdash];
-@MMK_R_I = [B D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC F H Hcircumflex I IJ Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde K uni0136 L Lacute Lcaron uni013B Ldot Lslash M N Nacute Ncaron uni0145 Ntilde Thorn uniA78B uni1E9E i];
+@MMK_R_I = [B D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC H Hcircumflex I IJ Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde K uni0136 L Lacute Lcaron uni013B Ldot Lslash M N Nacute Ncaron uni0145 Ntilde Thorn uniA78B uni1E9E H_E L_A L_I L_N M_M N_N i];
 @MMK_R_J = [J uni004A0301 Jcircumflex];
-@MMK_R_O = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent uni018F G Gbreve Gcircumflex uni0122 Gdotaccent uni1E20 O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Oslash Otilde OE Q];
+@MMK_R_O = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent uni018F G Gbreve Gcircumflex uni0122 Gdotaccent uni1E20 O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Oslash Otilde OE Q C_O _O];
 @MMK_R_P = [P R Racute Rcaron uni0156];
 @MMK_R_PERIOD = [period ellipsis];
 @MMK_R_QUOTE = [quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle];
 @MMK_R_S = [S Sacute Scaron Scedilla Scircumflex uni0218 uni1E9E.old];
 @MMK_R_SEMICOLON = [semicolon];
-@MMK_R_T = [T Tcaron uni0162 uni021A];
+@MMK_R_T = [T Tcaron uni0162 uni021A T_E T_T];
 @MMK_R_U = [U Uacute Ubreve uni01D3 Ucircumflex Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde];
 @MMK_R_V = [V];
 @MMK_R_W = [W Wacute Wcircumflex Wdieresis Wgrave];
@@ -77,7 +77,13 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn CAT;
 languagesystem latn NLD;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
 ### close prefix 'Languagesystems' ###
 
 ### feature:0:aalt ###
@@ -91,6 +97,7 @@ feature numr;
 feature dnom;
 feature frac;
 feature ordn;
+feature ss01;
 ### close feature 'aalt' ###
 } aalt;
 
@@ -242,8 +249,11 @@ sub [zero one two three four five six seven eight nine] [O]' by ordmasculine;
 ### feature:9:liga ###
 feature liga {
 ### open feature 'liga' ###
-sub F I by fi;
+sub F [I i] by fi;
 sub F L by fl;
+sub F F by F_F;
+sub F F [I i] by F_F_I;
+sub F F L by F_F_L;
 ### close feature 'liga' ###
 } liga;
 
@@ -257,6 +267,47 @@ featureNames {
 sub uni1E9E by uni1E9E.old;
 ### close feature 'ss01' ###
 } ss01;
+
+### feature:11:ccmp ###
+feature ccmp {
+### open feature 'ccmp' ###
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub uni0306 acutecomb by uni03060301;
+	sub uni0306 gravecomb by uni03060300;
+	sub uni0306 hookabovecomb by uni03060309;
+	sub uni0306 tildecomb by uni03060303;
+	sub uni0302 acutecomb by uni03020301;
+	sub uni0302 gravecomb by uni03020300;
+	sub uni0302 hookabovecomb by uni03020309;
+	sub uni0302 tildecomb by uni03020303;
+} ccmp_latn_1;
+
+script latn;
+lookup ccmp_latn_1;
+### close feature 'ccmp' ###
+} ccmp;
+
+### feature:12:dlig ###
+feature dlig {
+### open feature 'dlig' ###
+lookupflag IgnoreMarks;
+sub C O by C_O;
+sub H E by H_E;
+sub L A by L_A;
+sub L I by L_I;
+sub L i by L_I;
+sub L N by L_N;
+sub N N by N_N;
+sub T E by T_E;
+sub T T by T_T;
+sub M M by M_M;
+sub O O' by _O;
+sub _O O' by _O;
+sub A E by AE;
+sub O E by OE;
+### close feature 'dlig' ###
+} dlig;
 
 ### feature:-1:kern ###
 feature kern {
@@ -326,6 +377,7 @@ feature kern {
 		pos @MMK_L_O @MMK_R_Z -69;
 		pos @MMK_L_P @MMK_R_A -163;
 		pos @MMK_L_P @MMK_R_COMMA -171;
+		pos @MMK_L_P @MMK_R_E -60;
 		pos @MMK_L_P @MMK_R_J -103;
 		pos @MMK_L_P @MMK_R_O -43;
 		pos @MMK_L_P @MMK_R_PERIOD -171;
@@ -408,6 +460,7 @@ feature mark {
 		pos base registered  <anchor 764 0> mark @mark_bottom <anchor 1375 10> mark @mark_ogonek <anchor 764 1400> mark @mark_top <anchor 1223 1196> mark @mark_topright;
 		pos base dollar  <anchor 544 0> mark @mark_bottom <anchor 544 1400> mark @mark_top;
 		pos base Euro  <anchor 659 0> mark @mark_bottom <anchor 759 1400> mark @mark_top;
+		pos base _O  <anchor 189 0> mark @mark_bottom <anchor 800 10> mark @mark_ogonek <anchor 189 1400> mark @mark_top <anchor 648 1196> mark @mark_topright;
 	} mark_DFLT;
 	lookup mark_latn {
 		pos base A  <anchor 676 0> mark @mark_bottom <anchor 1267 0> mark @mark_ogonek <anchor 676 1400> mark @mark_top;
@@ -477,7 +530,7 @@ feature mark {
 		pos base uni01CF  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1819> mark @mark_top;
 		pos base Icircumflex  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1819> mark @mark_top;
 		pos base Idieresis  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1654> mark @mark_top;
-		pos base Idotaccent  <anchor 109 0> mark @mark_ogonek <anchor 110 1669> mark @mark_top;
+		pos base Idotaccent  <anchor 121 0> mark @mark_ogonek <anchor 122 1669> mark @mark_top;
 		pos base uni1ECA  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1400> mark @mark_top;
 		pos base Igrave  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1839> mark @mark_top;
 		pos base uni1EC8  <anchor 110 0> mark @mark_bottom <anchor 109 0> mark @mark_ogonek <anchor 110 1853> mark @mark_top;
@@ -622,10 +675,11 @@ feature mkmk {
 } mkmk;
 
 table GDEF {
- GlyphClassDef [A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC uni018F F G Gbreve Gcircumflex uni0122 Gdotaccent uni1E20 H Hcircumflex I IJ Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde J uni004A0301 Jcircumflex K uni0136 L Lacute Lcaron uni013B Ldot M N Nacute Ncaron uni0145 Ntilde O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Otilde P Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla Scircumflex uni0218 T Tcaron uni0162 uni021A U Uacute Ubreve uni01D3 Ucircumflex Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni1EF6 uni1EF8 Z Zacute Zcaron Zdotaccent uni1E9E.old i registered dollar Euro],# Base 
- [fi fl], # Liga 
+ GlyphClassDef [A Aacute Abreve uni1EAE uni1EB6 uni1EB0 uni1EB2 uni1EB4 uni01CD Acircumflex uni1EA4 uni1EAC uni1EA6 uni1EA8 uni1EAA Adieresis uni1EA0 Agrave uni1EA2 Amacron Aogonek Aring Atilde B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ecaron Ecircumflex uni1EBE uni1EC6 uni1EC0 uni1EC2 uni1EC4 Edieresis Edotaccent uni1EB8 Egrave uni1EBA Emacron Eogonek uni1EBC uni018F F G Gbreve Gcircumflex uni0122 Gdotaccent uni1E20 H Hcircumflex I IJ Iacute uni01CF Icircumflex Idieresis Idotaccent uni1ECA Igrave uni1EC8 Imacron Iogonek Itilde J uni004A0301 Jcircumflex K uni0136 L Lacute Lcaron uni013B Ldot M N Nacute Ncaron uni0145 Ntilde O Oacute uni01D1 Ocircumflex uni1ED0 uni1ED8 uni1ED2 uni1ED4 uni1ED6 Odieresis uni1ECC Ograve uni1ECE Ohorn uni1EDA uni1EE2 uni1EDC uni1EDE uni1EE0 Ohungarumlaut Omacron Otilde P Q R Racute Rcaron uni0156 S Sacute Scaron Scedilla Scircumflex uni0218 T Tcaron uni0162 uni021A U Uacute Ubreve uni01D3 Ucircumflex Udieresis uni01D7 uni01D9 uni01DB uni01D5 uni1EE4 Ugrave uni1EE6 Uhorn uni1EE8 uni1EF0 uni1EEA uni1EEC uni1EEE Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis uni1EF4 Ygrave uni1EF6 uni1EF8 Z Zacute Zcaron Zdotaccent uni1E9E.old i registered dollar Euro _O],# Base 
+ [C_O F_F F_F_I F_F_L F_L H_E L_A L_I L_N M_M N_N T_E T_T fi fl], # Liga 
  [uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 hookabovecomb uni031B dotbelowcomb uni0326 uni0327 uni0328], # Mark 
  ;
- LigatureCaretByPos fi 623;
+ LigatureCaretByPos F_F_I 1624;
+LigatureCaretByPos fi 623;
 LigatureCaretByPos fl 1083;
 } GDEF;

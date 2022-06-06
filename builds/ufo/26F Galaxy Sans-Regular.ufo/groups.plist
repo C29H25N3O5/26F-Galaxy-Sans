@@ -27,6 +27,7 @@
 		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
+		<string>L_A</string>
 	</array>
 	<key>public.kern1.B</key>
 	<array>
@@ -72,10 +73,13 @@
 		<string>Eogonek</string>
 		<string>uni1EBC</string>
 		<string>OE</string>
+		<string>H_E</string>
+		<string>T_E</string>
 	</array>
 	<key>public.kern1.F</key>
 	<array>
 		<string>F</string>
+		<string>F_F</string>
 	</array>
 	<key>public.kern1.G</key>
 	<array>
@@ -109,6 +113,12 @@
 		<string>uni0145</string>
 		<string>Ntilde</string>
 		<string>uniA78B</string>
+		<string>C_O</string>
+		<string>F_F_I</string>
+		<string>L_I</string>
+		<string>L_N</string>
+		<string>M_M</string>
+		<string>N_N</string>
 		<string>i</string>
 		<string>fi</string>
 	</array>
@@ -132,6 +142,8 @@
 		<string>uni013B</string>
 		<string>Ldot</string>
 		<string>Lslash</string>
+		<string>F_F_L</string>
+		<string>F_L</string>
 		<string>fl</string>
 	</array>
 	<key>public.kern1.O</key>
@@ -165,6 +177,7 @@
 		<string>Oslash</string>
 		<string>Otilde</string>
 		<string>Q</string>
+		<string>_O</string>
 	</array>
 	<key>public.kern1.P</key>
 	<array>
@@ -214,6 +227,7 @@
 		<string>Tcaron</string>
 		<string>uni0162</string>
 		<string>uni021A</string>
+		<string>T_T</string>
 	</array>
 	<key>public.kern1.THORN</key>
 	<array>
@@ -317,8 +331,13 @@
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 	</array>
-	<key>public.kern2.F</key>
+	<key>public.kern2.E</key>
 	<array>
+		<string>F</string>
+		<string>F_F</string>
+		<string>F_F_I</string>
+		<string>F_F_L</string>
+		<string>F_L</string>
 		<string>fi</string>
 		<string>fl</string>
 	</array>
@@ -352,7 +371,6 @@
 		<string>Emacron</string>
 		<string>Eogonek</string>
 		<string>uni1EBC</string>
-		<string>F</string>
 		<string>H</string>
 		<string>Hcircumflex</string>
 		<string>I</string>
@@ -385,6 +403,12 @@
 		<string>Thorn</string>
 		<string>uniA78B</string>
 		<string>uni1E9E</string>
+		<string>H_E</string>
+		<string>L_A</string>
+		<string>L_I</string>
+		<string>L_N</string>
+		<string>M_M</string>
+		<string>N_N</string>
 		<string>i</string>
 	</array>
 	<key>public.kern2.J</key>
@@ -433,6 +457,8 @@
 		<string>Otilde</string>
 		<string>OE</string>
 		<string>Q</string>
+		<string>C_O</string>
+		<string>_O</string>
 	</array>
 	<key>public.kern2.P</key>
 	<array>
@@ -476,6 +502,8 @@
 		<string>Tcaron</string>
 		<string>uni0162</string>
 		<string>uni021A</string>
+		<string>T_E</string>
+		<string>T_T</string>
 	</array>
 	<key>public.kern2.U</key>
 	<array>

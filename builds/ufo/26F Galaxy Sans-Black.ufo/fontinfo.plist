@@ -35,7 +35,12 @@
 	<key>openTypeOS2WinDescent</key>
 	<integer>400</integer>
 	<key>postscriptBlueValues</key>
-	<array/>
+	<array>
+		<real>-10.0</real>
+		<real>0.0</real>
+		<real>1400.0</real>
+		<real>1410.0</real>
+	</array>
 	<key>postscriptFontName</key>
 	<string>26FGalaxySans-Regular</string>
 	<key>postscriptOtherBlues</key>

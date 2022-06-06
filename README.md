@@ -6,35 +6,27 @@
 
 26F Galaxy Sans is an open-source variable typeface featuring elements from space and the universe. It is designed for the block stacking game [Techmino Galaxy](https://github.com/26F-Studio/Techmino_Galaxy) (which is currently under development).
 
-## Features (Planned)
+## Features
 
-- [x] Multiple masters and weights
-  
-  - [x] Multiple masters
-  
-  - [x] Multiple weights
-  
-  - [x] Variable font
-  
-  - [ ] Oblique
+### Variable Font
 
-- [x] Multi-language support
-  
-  - [x] Popular European Languages
-  
-  - [x] Other European Languages
-  
-  - [ ] Cyrillic
-  
-  - [ ] Greek
+26F Galaxy Sans is available as variable font files with a weight axis ranging from 50 to 300.
 
-- [x] Some OpenType Features
-  
-  - [ ] Old-style capital ligatures
+![An animation of the text “The power of variable fonts” in 26F Galaxy Sans, showing its variable font weights.](./media/variable.gif)
 
-- [ ] Corner smoothing (to achieve C2 continuity)
+### Multiple Weights
 
-- [ ] And more…
+26F Galaxy Sans also supports multiple weights for software that doesn’t support variable fonts. The static builds include nine different weights for a variety of use.
+
+![An image showing the nine different weights of 26F Galaxy Sans and their obliques.](./media/weights.jpg)
+
+### All-Caps Ligatures
+
+26F Galaxy Sans also have all-caps ligatures. Simply enable the `liga` and `dlig` OpenType Feature to use them.
+
+![An image showing all the ligatures included in 26F Galaxy Sans.](./media/ligatures.jpg)
+
+
 
 ## Build from Source
 
@@ -70,7 +62,7 @@ But if that is not possible for you, you can also use the exported UFO (unified 
 
 - Since UFO does not support multiple masters, you need to interpolate using specific programs in order to get multiple weights and variable fonts by combining the provided masters in UFO.
 
-- All the user-friendly glyph names are converted to production names (`u####`).
+- All the user-friendly glyph names are converted to production names (`uni####`).
 
 - The actual weights of the exported static font files are as follows if you want to generate all weights included in the distro:
   
