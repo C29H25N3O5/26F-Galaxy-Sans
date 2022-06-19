@@ -26,7 +26,11 @@
 
 ![An image showing all the ligatures included in 26F Galaxy Sans.](./media/ligatures.jpg)
 
+### NEW: Hebrew Support!
 
+A new font family named “26F Galaxy Sans Hebrew” is now available. It contains all essential characters needed for daily communications in Hebrew and Yiddish.
+
+![An image with Hebrew and English texts: “Now with Hebrew Language Support.”](./media/hebrew.jpg)
 
 ## Build from Source
 
