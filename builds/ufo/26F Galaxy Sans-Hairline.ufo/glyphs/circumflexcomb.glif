@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="2">
+	<advance width="0"/>
+	<unicode hex="0302"/>
+	<anchor x="0" y="1400" name="_top"/>
+	<anchor x="0" y="1819" name="top"/>
+	<anchor x="219" y="1594" name="top_viet"/>
+	<anchor x="438" y="1577" name="top_viet_grave"/>
+	<outline>
+		<contour>
+			<point x="-14.2" y="1813.369" type="curve"/>
+			<point x="-236.603" y="1605.2" type="line"/>
+			<point x="-240.665" y="1601.37"/>
+			<point x="-243.201" y="1595.939"/>
+			<point x="-243.201" y="1589.915" type="curve"/>
+			<point x="-243.201" y="1578.317"/>
+			<point x="-233.8" y="1568.915"/>
+			<point x="-222.201" y="1568.915" type="curve"/>
+			<point x="-216.627" y="1568.915"/>
+			<point x="-211.56" y="1571.087"/>
+			<point x="-207.8" y="1574.631" type="curve"/>
+			<point x="14.603" y="1782.8" type="line"/>
+			<point x="18.665" y="1786.63"/>
+			<point x="21.201" y="1792.061"/>
+			<point x="21.201" y="1798.085" type="curve"/>
+			<point x="21.201" y="1809.683"/>
+			<point x="11.8" y="1819.085"/>
+			<point x="0.201" y="1819.085" type="curve"/>
+			<point x="-5.373" y="1819.085"/>
+			<point x="-10.44" y="1816.913"/>
+		</contour>
+		<contour>
+			<point x="-13.417" y="1781.731" type="line"/>
+			<point x="205.793" y="1574.751" type="line"/>
+			<point x="209.559" y="1571.172"/>
+			<point x="214.652" y="1568.975"/>
+			<point x="220.258" y="1568.975" type="curve"/>
+			<point x="231.856" y="1568.975"/>
+			<point x="241.258" y="1578.377"/>
+			<point x="241.258" y="1589.975" type="curve"/>
+			<point x="241.258" y="1595.968"/>
+			<point x="238.748" y="1601.374"/>
+			<point x="234.722" y="1605.2" type="curve"/>
+			<point x="15.417" y="1812.269" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

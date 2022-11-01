@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="micro" format="2">
+	<advance width="1328"/>
+	<unicode hex="00B5"/>
+	<outline>
+		<contour>
+			<point x="410" y="-250" type="curve"/>
+			<point x="410" y="100" type="line"/>
+			<point x="410" y="182.843"/>
+			<point x="342.843" y="250"/>
+			<point x="260" y="250" type="curve"/>
+			<point x="177.157" y="250"/>
+			<point x="110" y="182.843"/>
+			<point x="110" y="100" type="curve"/>
+			<point x="110" y="-250" type="line"/>
+			<point x="110" y="-332.843"/>
+			<point x="177.157" y="-400"/>
+			<point x="260" y="-400" type="curve"/>
+			<point x="342.843" y="-400"/>
+			<point x="410" y="-332.843"/>
+		</contour>
+		<contour>
+			<point x="410" y="500" type="curve"/>
+			<point x="410" y="859" type="line"/>
+			<point x="410" y="941.843"/>
+			<point x="342.843" y="1009"/>
+			<point x="260" y="1009" type="curve"/>
+			<point x="177.157" y="1009"/>
+			<point x="110" y="941.843"/>
+			<point x="110" y="859" type="curve"/>
+			<point x="110" y="500" type="line"/>
+			<point x="110" y="417.157"/>
+			<point x="177.157" y="350"/>
+			<point x="260" y="350" type="curve"/>
+			<point x="342.843" y="350"/>
+			<point x="410" y="417.157"/>
+		</contour>
+		<contour>
+			<point x="695" y="0" type="curve"/>
+			<point x="985.8" y="0"/>
+			<point x="1218" y="236.8"/>
+			<point x="1218" y="524" type="curve"/>
+			<point x="1218" y="858" type="line"/>
+			<point x="1218" y="940.843"/>
+			<point x="1150.843" y="1008"/>
+			<point x="1068" y="1008" type="curve"/>
+			<point x="985.157" y="1008"/>
+			<point x="918" y="940.843"/>
+			<point x="918" y="858" type="curve"/>
+			<point x="918" y="524" type="line"/>
+			<point x="918" y="400"/>
+			<point x="818" y="300"/>
+			<point x="695" y="300" type="curve"/>
+			<point x="612.157" y="300"/>
+			<point x="545" y="232.843"/>
+			<point x="545" y="150" type="curve"/>
+			<point x="545" y="67.157"/>
+			<point x="612.157" y="0"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>U</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>U</string>
+			<key>public.markColor</key>
+			<string>0.5,0.09,0.79,1</string>
+		</dict>
+	</lib>
+</glyph>

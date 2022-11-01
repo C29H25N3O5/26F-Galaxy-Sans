@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixsuperior" format="2">
+	<advance width="540"/>
+	<unicode hex="2076"/>
+	<outline>
+		<contour>
+			<point x="267" y="1123" type="curve"/>
+			<point x="204" y="1123"/>
+			<point x="152" y="1175"/>
+			<point x="152" y="1238" type="curve"/>
+			<point x="152" y="1302"/>
+			<point x="204" y="1353"/>
+			<point x="267" y="1353" type="curve"/>
+			<point x="331" y="1353"/>
+			<point x="382" y="1302"/>
+			<point x="382" y="1238" type="curve"/>
+			<point x="382" y="1175"/>
+			<point x="331" y="1123"/>
+		</contour>
+		<contour>
+			<point x="267" y="1023" type="curve"/>
+			<point x="386" y="1023"/>
+			<point x="482" y="1120"/>
+			<point x="482" y="1238" type="curve"/>
+			<point x="482" y="1357"/>
+			<point x="386" y="1453"/>
+			<point x="267" y="1453" type="curve"/>
+			<point x="149" y="1453"/>
+			<point x="52" y="1357"/>
+			<point x="52" y="1238" type="curve"/>
+			<point x="52" y="1120"/>
+			<point x="149" y="1023"/>
+		</contour>
+		<contour>
+			<point x="282.238" y="1774.226" type="curve"/>
+			<point x="177.729" y="1575.251" type="line"/>
+			<point x="174.069" y="1568.307"/>
+			<point x="172" y="1560.395"/>
+			<point x="172" y="1552" type="curve"/>
+			<point x="172" y="1524.386"/>
+			<point x="194.386" y="1502"/>
+			<point x="222" y="1502" type="curve"/>
+			<point x="241.219" y="1502"/>
+			<point x="257.906" y="1512.843"/>
+			<point x="266.271" y="1528.749" type="curve"/>
+			<point x="369.915" y="1726.096" type="line"/>
+			<point x="373.842" y="1733.235"/>
+			<point x="376.076" y="1741.437"/>
+			<point x="376.076" y="1750.161" type="curve"/>
+			<point x="376.076" y="1777.775"/>
+			<point x="353.69" y="1800.161"/>
+			<point x="326.076" y="1800.161" type="curve"/>
+			<point x="307.186" y="1800.161"/>
+			<point x="290.742" y="1789.685"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.65,0.48,0.2,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -2,7 +2,7 @@
 <glyph name="three.dnom" format="2">
 	<advance width="468"/>
 	<outline>
-		<component base="uni2083" yOffset="200"/>
+		<component base="threeinferior" yOffset="200"/>
 	</outline>
 	<lib>
 		<dict>
@@ -14,7 +14,7 @@
 					<key>index</key>
 					<integer>0</integer>
 					<key>name</key>
-					<string>uni2083</string>
+					<string>threeinferior</string>
 				</dict>
 			</array>
 			<key>public.markColor</key>

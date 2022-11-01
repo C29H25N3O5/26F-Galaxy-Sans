@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F_F_I" format="2">
-	<advance width="3076"/>
+	<advance width="3036"/>
 	<outline>
 		<component base="F_F"/>
 		<component base="fi" xOffset="1258"/>

@@ -24,12 +24,18 @@
 	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Hairline</string>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>2300</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-400</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>100</integer>
+	<key>openTypeOS2WeightClass</key>
+	<integer>50</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>2300</integer>
 	<key>openTypeOS2WinDescent</key>
@@ -37,15 +43,19 @@
 	<key>postscriptBlueValues</key>
 	<array/>
 	<key>postscriptFontName</key>
-	<string>26FGalaxySans-Regular</string>
+	<string>26FGalaxySans-Hairline</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapV</key>
 	<array>
 		<real>50.0</real>
 	</array>
+	<key>styleMapFamilyName</key>
+	<string>26F Galaxy Sans Hairline</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Hairline</string>
 	<key>unitsPerEm</key>
 	<integer>2700</integer>
 	<key>versionMajor</key>

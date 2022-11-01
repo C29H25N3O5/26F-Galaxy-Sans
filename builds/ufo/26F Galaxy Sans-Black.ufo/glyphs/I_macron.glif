@@ -4,7 +4,7 @@
 	<unicode hex="012A"/>
 	<unicode hex="012B"/>
 	<outline>
-		<component base="uni0304" xOffset="300"/>
+		<component base="macroncomb" xOffset="300"/>
 		<component base="I"/>
 	</outline>
 	<lib>

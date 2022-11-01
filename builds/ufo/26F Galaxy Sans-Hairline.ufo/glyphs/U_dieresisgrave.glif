@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresisgrave" format="2">
+	<advance width="1165"/>
+	<unicode hex="01DB"/>
+	<unicode hex="01DC"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresiscomb" xOffset="583"/>
+		<component base="gravecomb" xOffset="583" yOffset="254"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

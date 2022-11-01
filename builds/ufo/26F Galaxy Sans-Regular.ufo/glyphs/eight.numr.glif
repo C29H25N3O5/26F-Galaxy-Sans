@@ -2,7 +2,7 @@
 <glyph name="eight.numr" format="2">
 	<advance width="540"/>
 	<outline>
-		<component base="uni2078" yOffset="-400"/>
+		<component base="eightsuperior" yOffset="-400"/>
 	</outline>
 	<lib>
 		<dict>
@@ -14,7 +14,7 @@
 					<key>index</key>
 					<integer>0</integer>
 					<key>name</key>
-					<string>uni2078</string>
+					<string>eightsuperior</string>
 				</dict>
 			</array>
 			<key>public.markColor</key>

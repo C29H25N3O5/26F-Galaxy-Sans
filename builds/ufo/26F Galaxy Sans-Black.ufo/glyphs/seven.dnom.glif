@@ -2,7 +2,7 @@
 <glyph name="seven.dnom" format="2">
 	<advance width="638"/>
 	<outline>
-		<component base="uni2087" yOffset="200"/>
+		<component base="seveninferior" yOffset="200"/>
 	</outline>
 	<lib>
 		<dict>
@@ -14,7 +14,7 @@
 					<key>index</key>
 					<integer>0</integer>
 					<key>name</key>
-					<string>uni2087</string>
+					<string>seveninferior</string>
 				</dict>
 			</array>
 			<key>public.markColor</key>

@@ -5,7 +5,7 @@
 	<unicode hex="00FB"/>
 	<outline>
 		<component base="U"/>
-		<component base="uni0302" xOffset="670"/>
+		<component base="circumflexcomb" xOffset="670"/>
 	</outline>
 	<lib>
 		<dict>

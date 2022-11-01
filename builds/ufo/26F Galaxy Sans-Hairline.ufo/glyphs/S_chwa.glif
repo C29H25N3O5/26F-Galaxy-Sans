@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa" format="2">
+	<advance width="1528"/>
+	<unicode hex="018F"/>
+	<unicode hex="0259"/>
+	<anchor x="764" y="0" name="bottom"/>
+	<anchor x="764" y="700" name="center"/>
+	<anchor x="1375" y="10" name="ogonek"/>
+	<anchor x="764" y="1400" name="top"/>
+	<anchor x="20" y="1400" name="topleft"/>
+	<anchor x="1508" y="1400" name="topright"/>
+	<outline>
+		<contour>
+			<point x="764" y="1350" type="curve"/>
+			<point x="1123" y="1350"/>
+			<point x="1414" y="1059"/>
+			<point x="1414" y="700" type="curve"/>
+			<point x="1414" y="341"/>
+			<point x="1123" y="50"/>
+			<point x="764" y="50" type="curve"/>
+			<point x="405" y="50"/>
+			<point x="114" y="341"/>
+			<point x="114" y="700" type="curve"/>
+			<point x="114" y="713.807"/>
+			<point x="102.807" y="725"/>
+			<point x="89" y="725" type="curve"/>
+			<point x="75.193" y="725"/>
+			<point x="64" y="713.807"/>
+			<point x="64" y="700" type="curve"/>
+			<point x="64" y="313.489"/>
+			<point x="377.489" y="0"/>
+			<point x="764" y="0" type="curve"/>
+			<point x="1150.511" y="0"/>
+			<point x="1464" y="313.489"/>
+			<point x="1464" y="700" type="curve"/>
+			<point x="1464" y="1086.511"/>
+			<point x="1150.511" y="1400"/>
+			<point x="764" y="1400" type="curve"/>
+			<point x="750.193" y="1400"/>
+			<point x="739" y="1388.807"/>
+			<point x="739" y="1375" type="curve"/>
+			<point x="739" y="1361.193"/>
+			<point x="750.193" y="1350"/>
+		</contour>
+		<contour>
+			<point x="89.5" y="675" type="curve"/>
+			<point x="1064" y="675" type="line"/>
+			<point x="1077.807" y="675"/>
+			<point x="1089" y="686.193"/>
+			<point x="1089" y="700" type="curve"/>
+			<point x="1089" y="713.807"/>
+			<point x="1077.807" y="725"/>
+			<point x="1064" y="725" type="curve"/>
+			<point x="89.5" y="725" type="line"/>
+			<point x="75.693" y="725"/>
+			<point x="64.5" y="713.807"/>
+			<point x="64.5" y="700" type="curve"/>
+			<point x="64.5" y="686.193"/>
+			<point x="75.693" y="675"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

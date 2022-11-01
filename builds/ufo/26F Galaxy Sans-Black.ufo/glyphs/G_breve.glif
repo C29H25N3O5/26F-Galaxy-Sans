@@ -5,7 +5,7 @@
 	<unicode hex="011F"/>
 	<outline>
 		<component base="G"/>
-		<component base="uni0306" xOffset="827"/>
+		<component base="brevecomb" xOffset="827"/>
 	</outline>
 	<lib>
 		<dict>

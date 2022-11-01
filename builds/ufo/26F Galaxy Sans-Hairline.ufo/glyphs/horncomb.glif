@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="2">
+	<advance width="0"/>
+	<unicode hex="031B"/>
+	<anchor x="-170" y="1396" name="_topright"/>
+	<anchor x="98" y="1560" name="topright"/>
+	<outline>
+		<contour>
+			<point x="-131.1" y="1375.984" type="curve"/>
+			<point x="93.546" y="1526.891" type="line"/>
+			<point x="100.058" y="1531.404"/>
+			<point x="104.323" y="1538.931"/>
+			<point x="104.323" y="1547.454" type="curve"/>
+			<point x="104.323" y="1561.261"/>
+			<point x="93.13" y="1572.454"/>
+			<point x="79.323" y="1572.454" type="curve"/>
+			<point x="74.038" y="1572.454"/>
+			<point x="69.137" y="1570.814"/>
+			<point x="65.1" y="1568.016" type="curve"/>
+			<point x="-159.546" y="1417.109" type="line"/>
+			<point x="-166.058" y="1412.596"/>
+			<point x="-170.323" y="1405.069"/>
+			<point x="-170.323" y="1396.546" type="curve"/>
+			<point x="-170.323" y="1382.739"/>
+			<point x="-159.13" y="1371.546"/>
+			<point x="-145.323" y="1371.546" type="curve"/>
+			<point x="-140.038" y="1371.546"/>
+			<point x="-135.137" y="1373.186"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.97,0.9,0,1</string>
+		</dict>
+	</lib>
+</glyph>

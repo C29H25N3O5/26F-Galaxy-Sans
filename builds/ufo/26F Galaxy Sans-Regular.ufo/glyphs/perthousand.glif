@@ -5,30 +5,30 @@
 	<outline>
 		<component base="percent"/>
 		<contour>
-			<point x="1495" y="580" type="curve" smooth="yes"/>
+			<point x="1495" y="580" type="curve"/>
 			<point x="1622" y="580"/>
 			<point x="1725" y="477"/>
-			<point x="1725" y="350" type="curve" smooth="yes"/>
+			<point x="1725" y="350" type="curve"/>
 			<point x="1725" y="223"/>
 			<point x="1622" y="120"/>
-			<point x="1495" y="120" type="curve" smooth="yes"/>
-			<point x="1462" y="120"/>
-			<point x="1435" y="93"/>
-			<point x="1435" y="60" type="curve" smooth="yes"/>
-			<point x="1435" y="27"/>
-			<point x="1462" y="0"/>
-			<point x="1495" y="0" type="curve" smooth="yes"/>
-			<point x="1688" y="0"/>
-			<point x="1845" y="157"/>
-			<point x="1845" y="350" type="curve" smooth="yes"/>
-			<point x="1845" y="543"/>
-			<point x="1688" y="700"/>
-			<point x="1495" y="700" type="curve" smooth="yes"/>
-			<point x="1462" y="700"/>
-			<point x="1435" y="673"/>
-			<point x="1435" y="640" type="curve" smooth="yes"/>
-			<point x="1435" y="607"/>
-			<point x="1462" y="580"/>
+			<point x="1495" y="120" type="curve"/>
+			<point x="1461.863" y="120"/>
+			<point x="1435" y="93.137"/>
+			<point x="1435" y="60" type="curve"/>
+			<point x="1435" y="26.863"/>
+			<point x="1461.863" y="0"/>
+			<point x="1495" y="0" type="curve"/>
+			<point x="1688.106" y="0"/>
+			<point x="1845" y="156.894"/>
+			<point x="1845" y="350" type="curve"/>
+			<point x="1845" y="543.106"/>
+			<point x="1688.106" y="700"/>
+			<point x="1495" y="700" type="curve"/>
+			<point x="1461.863" y="700"/>
+			<point x="1435" y="673.137"/>
+			<point x="1435" y="640" type="curve"/>
+			<point x="1435" y="606.863"/>
+			<point x="1461.863" y="580"/>
 		</contour>
 	</outline>
 	<lib>
